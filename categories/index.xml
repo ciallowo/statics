@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 向阳素描</title>
+    <link>https://blog.sekaic.icu/categories/</link>
+    <description>Recent content in Categories on 向阳素描</description>
+    <image>
+      <title>向阳素描</title>
+      <url>https://blog.sekaic.icu/papermod-cover.png</url>
+      <link>https://blog.sekaic.icu/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.sekaic.icu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自由研究</title>
+      <link>https://blog.sekaic.icu/categories/%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>https://blog.sekaic.icu/categories/%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

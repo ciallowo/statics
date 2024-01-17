@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自由研究 on 向阳素描</title>
+    <link>https://blog.sekaic.icu/categories/%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6/</link>
+    <description>Recent content in 自由研究 on 向阳素描</description>
+    <image>
+      <title>向阳素描</title>
+      <url>https://blog.sekaic.icu/papermod-cover.png</url>
+      <link>https://blog.sekaic.icu/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.sekaic.icu/categories/%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Encrypting File System (EFS) 保护你的数据</title>
+      <link>https://blog.sekaic.icu/posts/windows-efs/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>https://blog.sekaic.icu/posts/windows-efs/</guid>
+      <description>0x00 简介 The Encrypting File System (EFS) on Microsoft Windows is a feature introduced in version 3.0 of NTFS[1] that provides filesystem-level encryption. The technology enables files to be transparently encrypted to protect confidential data from attackers with physical access to the computer.
+加密文件系统 (EFS) 是 Microsoft Windows 在 NTFS 3.0 版本中引进的功能，其能够提供文件系统级别的加密。该技术能够使文件被透明加密，以防止拥有物理访问权限的攻击者窃取机密数据。
+EFS is available in all versions of Windows except the home versions (see Supported operating systems below) from Windows 2000 onwards.</description>
+    </item>
+  </channel>
+</rss>
